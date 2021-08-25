@@ -8,4 +8,5 @@ To add --
  2. An overall Volatility gauge in the market.
  3. Expected volatility calculations
  4. GARCH models for volatility.
+
 Work in Progress
