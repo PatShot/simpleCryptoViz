@@ -1,0 +1,61 @@
+,id,chain_identifier,name,shortname
+0,factom,,Factom,
+1,openledger,,OpenLedger,
+2,cosmos,,Cosmos,
+3,binancecoin,,Binance Coin,
+4,metaverse-etp,,Metaverse ETP,
+5,nem,,NEM,
+6,icon,,ICON,
+7,waves,,Waves,
+8,kava,,Kava,
+9,stratis,,Stratis,
+10,algorand,,Algorand,
+11,nuls,,Nuls,
+12,qtum,,Qtum,
+13,stellar,,Stellar,
+14,nxt,,NXT,
+15,ardor,,Ardor,
+16,ontology,,Ontology,
+17,eos,,EOS,
+18,polkadot,,Polkadot,
+19,vechain,,VeChain,
+20,omni,,Omni,
+21,counterparty,,Counterparty,
+22,klay-token,,Klaytn,
+23,chiliz,,Chiliz,
+24,bitshares,,BitShares,
+25,neo,,NEO,
+26,super-zero,,Sero,
+27,ethereum-classic,,Ethereum Classic,
+28,tron,,TRON,
+29,tezos,,Tezos,
+30,komodo,,Komodo,
+31,rootstock,,Rootstock RSK,
+32,achain,,Achain,
+33,solana,,Solana,
+34,vite,,Vite,
+35,telos,,Telos,
+36,gochain,,GoChain,
+37,wanchain,,Wanchain,
+38,enq-enecuum,,Enecuum,
+39,mdex,,Mdex,
+40,fantom,250.0,Fantom,
+41,binance-smart-chain,56.0,Binance Smart Chain,BSC
+42,ethereum,1.0,Ethereum,
+43,xdai,100.0,xDAI,
+44,bitcoin-cash,,Simple Ledger Protocol (Bitcoin Cash),SLP
+45,okex-chain,66.0,OKExChain,OKEx
+46,tomochain,88.0,TomoChain,
+47,avalanche,43114.0,Avalanche,AVAX
+48,zilliqa,,Zilliqa,
+49,iotex,,IoTeX,iotex
+50,polygon-pos,137.0,Polygon POS,MATIC
+51,fusion-network,,Fusion Network,fusion-network
+52,huobi-token,128.0,Huobi ECO Chain Mainnet,HECO
+53,osmosis,,Osmosis,Osmo
+54,cardano,,Cardano,
+55,terra,,Terra,
+56,celo,42220.0,Celo,celo
+57,harmony-shard-0,1666600000.0,Harmony Shard 0,Harmony Shard 0
+58,kucoin-community-chain,321.0,Kucoin Community Chain,KCC
+59,,,XDC Network,xdc xinfin
